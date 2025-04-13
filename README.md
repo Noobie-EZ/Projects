@@ -4,14 +4,15 @@
 
 ---
 
-### 🤖 AI Bots
+### 🤖 Bots
 - 💓 **GPT-4 + Midjourney AI Assistant**  
   → [@GPT_4_Noob1e1337_bot](https://t.me/GPT_4_Noob1e1337_bot)
 - 🖼️ **AI Image Generator**  
   → [@ImageGeneratorAI_robot](https://t.me/ImageGeneratorAI_robot)
 - 🤖 **Noobie-GPT AI Assistant**  
   → [@NoobieGPT_bot](https://t.me/NoobieGPT_bot)
-
+- 🤖 **S.T.A.L.K.E.R. (Roblox)**  
+  → [@Roblox_stalker_noob1e1337_bot](https://t.me/roblox_stalker_noob1e1337_bot)
 ---
 
 ### 📱 Telegram Web Apps
