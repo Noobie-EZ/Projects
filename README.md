@@ -18,7 +18,8 @@
 ### 📱 Telegram Web Apps
 - 👾 **NoobCoin**  
   → [@NoobCoinOff_bot](https://t.me/NoobCoinOff_bot)
-
+- 👾 **OnlyChats**  
+  → [@OnlyChatsAI_bot](https://t.me/OnlyChatsAI_bot)
 ---
 
 ### 🌐 Preview Site
